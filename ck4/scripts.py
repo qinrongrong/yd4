@@ -1,5 +1,5 @@
 class TestSetting():
     def test01(self):
         print("sds")
-    def test03(self):
+    def test04(self):
         print("sds")
